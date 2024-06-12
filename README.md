@@ -101,6 +101,11 @@ This Django-based web application allows users to upload CSV files, performs dat
 - `requirements.txt`: Python dependencies.
 - `National_Olympic_Committee_2022_medals.csv`: A sample CSV file for testing purposes.
 
+### Output
+
+ ![image](https://github.com/VaibhavBhadre18/csv-Analysis-using-Django/assets/168511366/376436c9-b9b9-45e8-9c59-f20c59852318)
+ ![image](https://github.com/VaibhavBhadre18/csv-Analysis-using-Django/assets/168511366/ab2596e9-3edb-4d47-bbd4-6bea7c6df87a)
+ 
 
 ### Contributing
 
