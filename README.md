@@ -21,7 +21,7 @@ This Django-based web application allows users to upload CSV files, performs dat
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/prajwalk-1/CSV-Analysis-using-Django.git
+   https://github.com/VaibhavBhadre18/csv-Analysis-using-Django.git
    cd csv_analysis
    ```
 
